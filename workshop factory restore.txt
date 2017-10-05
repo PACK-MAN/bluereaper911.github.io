@@ -1,0 +1,20 @@
+1. intall drivers network on usb
+1. connect internet: 
+	\\netcad_cloud
+	username: workshop
+	pass: 
+2. install apps
+3. turn of windows firewall and defender
+3. internet options , security center , windows defender , 
+
+4. browser: "support.myitsupport.co.za/dl.asp" //enter-instal agent
+5. if pc slow:
+   run: "msconfig"
+   startup> disable non importand programs
+6. run: "services.msc":
+	Superfetch-disable
+	windows search-disable
+7. download adobe acrobat reader
+8. install webroot
+9. setup office with key.
+10.
